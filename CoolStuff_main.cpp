@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[])
 {
-  std::cout << "Cool Stuff:\n\n";
+  std::cout << "Westons Cool Stuff:\n\n";
 
   double w = 15.34;
   double h = 12.77;
